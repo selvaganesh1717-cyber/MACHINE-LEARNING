@@ -1,0 +1,7 @@
+This branch is about machine learning 
+It contains churn prediction,Decision tree,logistic regression
+It also contains feature engineering and k means clustering
+Sample data sets with ipynb files are as follows
+Diabates
+Loan approval
+mall customer
